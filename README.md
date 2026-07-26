@@ -57,4 +57,4 @@ http://localhost:5000
 - File download
 - Notifications
 
-![Amazon S3 Bucket](s3bucket.png)
+![Amazon S3 Bucket](s3buckets.png)
