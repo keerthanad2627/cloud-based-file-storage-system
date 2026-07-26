@@ -56,23 +56,5 @@ http://localhost:5000
 - File sharing
 - File download
 - Notifications
-## 📸 Project Screenshots
 
-### Login Page
-![Login Page](screenshots/Screenshot202026-07-2620121550.png)
-
-### Home Page
-![Home Page](screenshots/Screenshot%202026-07-26%20121940.png)
-
-### File Upload
-![File Upload](screenshots/Screenshot%202026-07-26%20122039.png)
-
-### Uploaded Files
-![Uploaded Files](screenshots/Screenshot%202026-07-26%20122109.png)
-
-### AWS S3 Bucket
-![AWS S3 Bucket](screenshots/Screenshot%202026-07-26%20122143.png)
-
-### Project Output
-![Project Output](screenshots/Screenshot%202026-07-26%20122312.png)
 
