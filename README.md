@@ -58,3 +58,7 @@ http://localhost:5000
 - Notifications
 
 ![Amazon S3 Bucket](s3buckets.png)
+
+![dashboard](dash.png)
+
+![file](upload.png)
