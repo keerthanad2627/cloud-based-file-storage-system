@@ -59,7 +59,7 @@ http://localhost:5000
 ## 📸 Project Screenshots
 
 ### Login Page
-![Login Page](screenshots/Screenshot%202026-07-26%20121550.png)
+![Login Page](screenshots/Screenshot202026-07-2620121550.png)
 
 ### Home Page
 ![Home Page](screenshots/Screenshot%202026-07-26%20121940.png)
